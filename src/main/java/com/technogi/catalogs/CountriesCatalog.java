@@ -3,7 +3,6 @@ package com.technogi.catalogs;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import javax.annotation.PostConstruct;
-import java.io.File;
 import java.io.IOException;
 import java.util.LinkedList;
 import java.util.List;
@@ -19,8 +18,7 @@ public class CountriesCatalog {
   private void init() throws IOException {
     ObjectMapper mapper = new ObjectMapper();
     ClassLoader classLoader = getClass().getClassLoader();
-    File file = new File(classLoader.getResource("countries.json").getFile());
-    map = mapper.readValue(file, Map.class);
+    map = mapper.readValue(classLoader.getResourceAsStream("com/technogi/ctalogs/countries.json"), Map.class);
   }
 
 
