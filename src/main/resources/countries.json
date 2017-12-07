@@ -1,0 +1,3835 @@
+{
+  "PR": {
+    "iso2Code": "PR",
+    "iso3Code": "PRI",
+    "names": {
+      "default": "Porto Rico",
+      "en": "Puerto Rico",
+      "es": "Puerto Rico"
+    },
+    "labels": [{
+      "name": "nationality",
+      "lang": "es",
+      "value":"puertorriqueño"
+    }],
+    "active": true
+  },
+  "PS": {
+    "iso2Code": "PS",
+    "iso3Code": "PSE",
+    "names": {
+      "default": "La Palestine",
+      "en": "Palestine",
+      "es": "Palestina"
+    },
+    "labels": [{
+      "name": "nationality",
+      "lang": "es",
+      "value": "palestino"
+    }],
+    "active": true
+  },
+  "PT": {
+    "iso2Code": "PT",
+    "iso3Code": "PRT",
+    "names": {
+      "default": "Portugal",
+      "en": "Portugal",
+      "es": "Portugal"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "portugués"
+      }
+    ],
+    "active": true
+  },
+  "PW": {
+    "iso2Code": "PW",
+    "iso3Code": "PLW",
+    "names": {
+      "default": "Palau",
+      "en": "Palau",
+      "es": "Palau"
+    },
+    "labels": [],
+    "active": true
+  },
+  "PY": {
+    "iso2Code": "PY",
+    "iso3Code": "PRY",
+    "names": {
+      "default": "Paraguay",
+      "en": "Paraguay",
+      "es": "Paraguay"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "paraguayo"
+      }
+    ],
+    "active": true
+  },
+  "QA": {
+    "iso2Code": "QA",
+    "iso3Code": "QAT",
+    "names": {
+      "default": "Qatar",
+      "en": "Qatar",
+      "es": "Qatar"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "katarí"
+      }
+    ],
+    "active": true
+  },
+  "AD": {
+    "iso2Code": "AD",
+    "iso3Code": "AND",
+    "names": {
+      "default": "Andorra",
+      "en": "Andorra",
+      "es": "Andorra"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "andorrano"
+      }
+    ],
+    "active": true
+  },
+  "AE": {
+    "iso2Code": "AE",
+    "iso3Code": "ARE",
+    "names": {
+      "default": "Emirats Arabes Unis",
+      "en": "United Arab Emirates",
+      "es": "Emiratos Árabes Unidos"
+    },
+    "labels": [{
+      "name": "nationality",
+      "lang": "es",
+      "value": "árabe"
+    }],
+    "active": true
+  },
+  "AF": {
+    "iso2Code": "AF",
+    "iso3Code": "AFG",
+    "names": {
+      "default": "Afghanistan",
+      "en": "Afghanistan",
+      "es": "Afganistán"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "afgano"
+      }
+    ],
+    "active": true
+  },
+  "AG": {
+    "iso2Code": "AG",
+    "iso3Code": "ATG",
+    "names": {
+      "default": "Antigua et Barbuda",
+      "en": "Antigua and Barbuda",
+      "es": "Antigua y Barbuda"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "antiguano"
+      }
+    ],
+    "active": true
+  },
+  "AI": {
+    "iso2Code": "AI",
+    "iso3Code": "AIA",
+    "names": {
+      "default": "Anguilla",
+      "en": "Anguilla",
+      "es": "Anguila"
+    },
+    "labels": [],
+    "active": true
+  },
+  "AL": {
+    "iso2Code": "AL",
+    "iso3Code": "ALB",
+    "names": {
+      "default": "Albanie",
+      "en": "Albania",
+      "es": "Albania"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "albano"
+      }
+    ],
+    "active": true
+  },
+  "AM": {
+    "iso2Code": "AM",
+    "iso3Code": "ARM",
+    "names": {
+      "default": "L'Arménie",
+      "en": "Armenia",
+      "es": "Armenia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "armenio"
+      }
+    ],
+    "active": true
+  },
+  "AN": {
+    "iso2Code": "AN",
+    "iso3Code": "ANT",
+    "names": {
+      "default": "Antilles Néerlandaises",
+      "en": "Netherlands Antilles",
+      "es": "Antillas Neerlandesas"
+    },
+    "labels": [],
+    "active": true
+  },
+  "AO": {
+    "iso2Code": "AO",
+    "iso3Code": "AGO",
+    "names": {
+      "default": "Angola",
+      "en": "Angola",
+      "es": "Angola"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "angolano"
+      }
+    ],
+    "active": true
+  },
+  "AQ": {
+    "iso2Code": "AQ",
+    "iso3Code": "ATA",
+    "names": {
+      "default": "L'Antarctique",
+      "en": "Antarctica",
+      "es": "Antártida"
+    },
+    "labels": [],
+    "active": true
+  },
+  "AR": {
+    "iso2Code": "AR",
+    "iso3Code": "ARG",
+    "names": {
+      "default": "Argentine",
+      "en": "Argentina",
+      "es": "Argentina"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "argentino"
+      }
+    ],
+    "active": true
+  },
+  "AS": {
+    "iso2Code": "AS",
+    "iso3Code": "ASM",
+    "names": {
+      "default": "Les Samoa américaines",
+      "en": "American Samoa",
+      "es": "Samoa Americana"
+    },
+    "labels": [ {
+      "name": "nationality",
+      "lang": "es",
+      "value": "samoano americano"
+    }],
+    "active": true
+  },
+  "AT": {
+    "iso2Code": "AT",
+    "iso3Code": "AUT",
+    "names": {
+      "default": "Autriche",
+      "en": "Austria",
+      "es": "Austria"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "austriaco"
+      }
+    ],
+    "active": true
+  },
+  "RE": {
+    "iso2Code": "RE",
+    "iso3Code": "REU",
+    "names": {
+      "default": "Réunion",
+      "en": "Réunion",
+      "es": "Reunión"
+    },
+    "labels": [],
+    "active": true
+  },
+  "AU": {
+    "iso2Code": "AU",
+    "iso3Code": "AUS",
+    "names": {
+      "default": "Australie",
+      "en": "Australia",
+      "es": "Australia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "australiano"
+      }
+    ],
+    "active": true
+  },
+  "AW": {
+    "iso2Code": "AW",
+    "iso3Code": "ABW",
+    "names": {
+      "default": "Aruba",
+      "en": "Aruba",
+      "es": "Aruba"
+    },
+    "labels": [],
+    "active": true
+  },
+  "AX": {
+    "iso2Code": "AX",
+    "iso3Code": "ALA",
+    "names": {
+      "default": "Îles Åland",
+      "en": "Åland Islands",
+      "es": "Islas de Åland"
+    },
+    "labels": [],
+    "active": true
+  },
+  "AZ": {
+    "iso2Code": "AZ",
+    "iso3Code": "AZE",
+    "names": {
+      "default": "L'Azerbaïdjan",
+      "en": "Azerbaijan",
+      "es": "Azerbayán"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "azerbaiyano"
+      }
+    ],
+    "active": true
+  },
+  "RO": {
+    "iso2Code": "RO",
+    "iso3Code": "ROU",
+    "names": {
+      "default": "Roumanie",
+      "en": "Romania",
+      "es": "Rumanía"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "rumano"
+      }
+    ],
+    "active": true
+  },
+  "BA": {
+    "iso2Code": "BA",
+    "iso3Code": "BIH",
+    "names": {
+      "default": "Bosnie-Herzégovine",
+      "en": "Bosnia and Herzegovina",
+      "es": "Bosnia y Herzegovina"
+    },
+    "labels": [{
+      "name": "nationality",
+      "lang": "es",
+      "value":"bosnio"
+    }],
+    "active": true
+  },
+  "BB": {
+    "iso2Code": "BB",
+    "iso3Code": "BRB",
+    "names": {
+      "default": "Barbade",
+      "en": "Barbados",
+      "es": "Barbados"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "barbadense"
+      }
+    ],
+    "active": true
+  },
+  "RS": {
+    "iso2Code": "RS",
+    "iso3Code": "SRB",
+    "names": {
+      "default": "Serbie",
+      "en": "Serbia",
+      "es": "Serbia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "serbio"
+      }
+    ],
+    "active": true
+  },
+  "BD": {
+    "iso2Code": "BD",
+    "iso3Code": "BGD",
+    "names": {
+      "default": "Bangladesh",
+      "en": "Bangladesh",
+      "es": "Bangladesh"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "bangladesí"
+      }
+    ],
+    "active": true
+  },
+  "BE": {
+    "iso2Code": "BE",
+    "iso3Code": "BEL",
+    "names": {
+      "default": "Belgique",
+      "en": "Belgium",
+      "es": "Bélgica"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "belga"
+      }
+    ],
+    "active": true
+  },
+  "RU": {
+    "iso2Code": "RU",
+    "iso3Code": "RUS",
+    "names": {
+      "default": "La Russie",
+      "en": "Russia",
+      "es": "Rusia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "ruso"
+      }
+    ],
+    "active": true
+  },
+  "BF": {
+    "iso2Code": "BF",
+    "iso3Code": "BFA",
+    "names": {
+      "default": "Burkina Faso",
+      "en": "Burkina Faso",
+      "es": "Burkina Faso"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "burkinés"
+      }
+    ],
+    "active": true
+  },
+  "BG": {
+    "iso2Code": "BG",
+    "iso3Code": "BGR",
+    "names": {
+      "default": "Bulgarie",
+      "en": "Bulgaria",
+      "es": "Bulgaria"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "búlgaro"
+      }
+    ],
+    "active": true
+  },
+  "RW": {
+    "iso2Code": "RW",
+    "iso3Code": "RWA",
+    "names": {
+      "default": "Rwanda",
+      "en": "Rwanda",
+      "es": "Ruanda"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "ruandés"
+      }
+    ],
+    "active": true
+  },
+  "BH": {
+    "iso2Code": "BH",
+    "iso3Code": "BHR",
+    "names": {
+      "default": "Bahreïn",
+      "en": "Bahrain",
+      "es": "Bahrein"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "bareiní"
+      }
+    ],
+    "active": true
+  },
+  "BI": {
+    "iso2Code": "BI",
+    "iso3Code": "BDI",
+    "names": {
+      "default": "Burundi",
+      "en": "Burundi",
+      "es": "Burundi"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "burundés"
+      }
+    ],
+    "active": true
+  },
+  "BJ": {
+    "iso2Code": "BJ",
+    "iso3Code": "BEN",
+    "names": {
+      "default": "Bénin",
+      "en": "Benin",
+      "es": "Benín"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "beninés"
+      }
+    ],
+    "active": true
+  },
+  "BL": {
+    "iso2Code": "BL",
+    "iso3Code": "BLM",
+    "names": {
+      "default": "Saint-Barthélemy",
+      "en": "Saint Barthélemy",
+      "es": "San Bartolomé"
+    },
+    "labels": [],
+    "active": true
+  },
+  "BM": {
+    "iso2Code": "BM",
+    "iso3Code": "BMU",
+    "names": {
+      "default": "Bermudes",
+      "en": "Bermuda Islands",
+      "es": "Islas Bermudas"
+    },
+    "labels": [],
+    "active": true
+  },
+  "BN": {
+    "iso2Code": "BN",
+    "iso3Code": "BRN",
+    "names": {
+      "default": "Brunei",
+      "en": "Brunei",
+      "es": "Brunéi"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "bruneano"
+      }
+    ],
+    "active": true
+  },
+  "BO": {
+    "iso2Code": "BO",
+    "iso3Code": "BOL",
+    "names": {
+      "default": "Bolivie",
+      "en": "Bolivia",
+      "es": "Bolivia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "boliviano"
+      }
+    ],
+    "active": true
+  },
+  "SA": {
+    "iso2Code": "SA",
+    "iso3Code": "SAU",
+    "names": {
+      "default": "Arabie Saoudite",
+      "en": "Saudi Arabia",
+      "es": "Arabia Saudita"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "saudí"
+      }
+    ],
+    "active": true
+  },
+  "SB": {
+    "iso2Code": "SB",
+    "iso3Code": "SLB",
+    "names": {
+      "default": "Iles Salomon",
+      "en": "Solomon Islands",
+      "es": "Islas Salomón"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "salomonense"
+      }
+    ],
+    "active": true
+  },
+  "BR": {
+    "iso2Code": "BR",
+    "iso3Code": "BRA",
+    "names": {
+      "default": "Brésil",
+      "en": "Brazil",
+      "es": "Brasil"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "brasileño"
+      }
+    ],
+    "active": true
+  },
+  "SC": {
+    "iso2Code": "SC",
+    "iso3Code": "SYC",
+    "names": {
+      "default": "Les Seychelles",
+      "en": "Seychelles",
+      "es": "Seychelles"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "seychelense"
+      }
+    ],
+    "active": true
+  },
+  "BS": {
+    "iso2Code": "BS",
+    "iso3Code": "BHS",
+    "names": {
+      "default": "Bahamas",
+      "en": "Bahamas",
+      "es": "Bahamas"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "bahameño"
+      }
+    ],
+    "active": true
+  },
+  "SD": {
+    "iso2Code": "SD",
+    "iso3Code": "SDN",
+    "names": {
+      "default": "Soudan",
+      "en": "Sudan",
+      "es": "Sudán"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "sudanés"
+      }
+    ],
+    "active": true
+  },
+  "BT": {
+    "iso2Code": "BT",
+    "iso3Code": "BTN",
+    "names": {
+      "default": "Le Bhoutan",
+      "en": "Bhutan",
+      "es": "Bhután"
+    },
+    "labels": [{
+      "name": "nationality",
+      "lang": "es",
+      "value": "bhutanes"
+    }],
+    "active": true
+  },
+  "SE": {
+    "iso2Code": "SE",
+    "iso3Code": "SWE",
+    "names": {
+      "default": "Suède",
+      "en": "Sweden",
+      "es": "Suecia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "sueco"
+      }
+    ],
+    "active": true
+  },
+  "BV": {
+    "iso2Code": "BV",
+    "iso3Code": "BVT",
+    "names": {
+      "default": "Bouvet Island",
+      "en": "Bouvet Island",
+      "es": "Isla Bouvet"
+    },
+    "labels": [],
+    "active": true
+  },
+  "SG": {
+    "iso2Code": "SG",
+    "iso3Code": "SGP",
+    "names": {
+      "default": "Singapour",
+      "en": "Singapore",
+      "es": "Singapur"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "singapurense"
+      }
+    ],
+    "active": true
+  },
+  "BW": {
+    "iso2Code": "BW",
+    "iso3Code": "BWA",
+    "names": {
+      "default": "Botswana",
+      "en": "Botswana",
+      "es": "Botsuana"
+    },
+    "labels": [ {
+      "name": "nationality",
+      "lang": "es",
+      "value": "botsuano"
+    }],
+    "active": true
+  },
+  "SH": {
+    "iso2Code": "SH",
+    "iso3Code": "SHN",
+    "names": {
+      "default": "Ascensión y Tristan de Acuña",
+      "en": "Ascensión y Tristán de Acuña",
+      "es": "Santa Elena"
+    },
+    "labels": [],
+    "active": true
+  },
+  "SI": {
+    "iso2Code": "SI",
+    "iso3Code": "SVN",
+    "names": {
+      "default": "Slovénie",
+      "en": "Slovenia",
+      "es": "Eslovenia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "eslovaco"
+      }
+    ],
+    "active": true
+  },
+  "BY": {
+    "iso2Code": "BY",
+    "iso3Code": "BLR",
+    "names": {
+      "default": "Biélorussie",
+      "en": "Belarus",
+      "es": "Bielorrusia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "bieloruso"
+      }
+    ],
+    "active": true
+  },
+  "SJ": {
+    "iso2Code": "SJ",
+    "iso3Code": "SJM",
+    "names": {
+      "default": "Svalbard et Jan Mayen",
+      "en": "Svalbard and Jan Mayen",
+      "es": "Svalbard y Jan Mayen"
+    },
+    "labels": [],
+    "active": true
+  },
+  "BZ": {
+    "iso2Code": "BZ",
+    "iso3Code": "BLZ",
+    "names": {
+      "default": "Belize",
+      "en": "Belize",
+      "es": "Belice"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "beliceño"
+      }
+    ],
+    "active": true
+  },
+  "SK": {
+    "iso2Code": "SK",
+    "iso3Code": "SVK",
+    "names": {
+      "default": "Slovaquie",
+      "en": "Slovakia",
+      "es": "Eslovaquia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "eslovaco"
+      }
+    ],
+    "active": true
+  },
+  "SL": {
+    "iso2Code": "SL",
+    "iso3Code": "SLE",
+    "names": {
+      "default": "Sierra Leone",
+      "en": "Sierra Leone",
+      "es": "Sierra Leona"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "sierraleonés"
+      }
+    ],
+    "active": true
+  },
+  "SM": {
+    "iso2Code": "SM",
+    "iso3Code": "SMR",
+    "names": {
+      "default": "San Marino",
+      "en": "San Marino",
+      "es": "San Marino"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "sanmarinense"
+      }
+    ],
+    "active": true
+  },
+  "SN": {
+    "iso2Code": "SN",
+    "iso3Code": "SEN",
+    "names": {
+      "default": "Sénégal",
+      "en": "Senegal",
+      "es": "Senegal"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "senegalés"
+      }
+    ],
+    "active": true
+  },
+  "SO": {
+    "iso2Code": "SO",
+    "iso3Code": "SOM",
+    "names": {
+      "default": "Somalie",
+      "en": "Somalia",
+      "es": "Somalia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "somalí"
+      }
+    ],
+    "active": true
+  },
+  "CA": {
+    "iso2Code": "CA",
+    "iso3Code": "CAN",
+    "names": {
+      "default": "Canada",
+      "en": "Canada",
+      "es": "Canadá"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "canadiense"
+      }
+    ],
+    "active": true
+  },
+  "SR": {
+    "iso2Code": "SR",
+    "iso3Code": "SUR",
+    "names": {
+      "default": "Surinam",
+      "en": "Suriname",
+      "es": "Surinám"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "surinamés"
+      }
+    ],
+    "active": true
+  },
+  "CC": {
+    "iso2Code": "CC",
+    "iso3Code": "CCK",
+    "names": {
+      "default": "Cocos (Keeling)",
+      "en": "Cocos(Keeling) Islands",
+      "es": "Islas Cocos (Keeling)"
+    },
+    "labels": [],
+    "active": true
+  },
+  "CD": {
+    "iso2Code": "CD",
+    "iso3Code": "COD",
+    "names": {
+      "default": "Congo (Democratic Republic)",
+      "en": "Congo (Democratic Republic)",
+      "es": "Congo (Republica Democrática)"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "congoles"
+      }
+    ],
+    "active": true
+  },
+  "ST": {
+    "iso2Code": "ST",
+    "iso3Code": "STP",
+    "names": {
+      "default": "Sao Tomé et Principe",
+      "en": "Sao Tome and Principe",
+      "es": "Santo Tomé y Príncipe"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "de Santo Tomé"
+      }
+    ],
+    "active": true
+  },
+  "SV": {
+    "iso2Code": "SV",
+    "iso3Code": "SLV",
+    "names": {
+      "default": "El Salvador",
+      "en": "El Salvador",
+      "es": "El Salvador"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "salvadoreño"
+      }
+    ],
+    "active": true
+  },
+  "CF": {
+    "iso2Code": "CF",
+    "iso3Code": "CAF",
+    "names": {
+      "default": "République Centrafricaine",
+      "en": "Central African Republic",
+      "es": "República Centroafricana"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "centroafricano"
+      }
+    ],
+    "active": true
+  },
+  "CG": {
+    "iso2Code": "CG",
+    "iso3Code": "COG",
+    "names": {
+      "default": "Congo",
+      "en": "Congo",
+      "es": "Congo"
+    },
+    "labels": [ {
+      "name": "nationality",
+      "lang": "es",
+      "value": "congoleño"
+    }],
+    "active": true
+  },
+  "CH": {
+    "iso2Code": "CH",
+    "iso3Code": "CHE",
+    "names": {
+      "default": "Suisse",
+      "en": "Switzerland",
+      "es": "Suiza"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "suizo"
+      }
+    ],
+    "active": true
+  },
+  "CI": {
+    "iso2Code": "CI",
+    "iso3Code": "CIV",
+    "names": {
+      "default": "Côte-d'Ivoire",
+      "en": "Ivory Coast",
+      "es": "Costa de Marfil"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "marfileño"
+      }
+    ],
+    "active": true
+  },
+  "SY": {
+    "iso2Code": "SY",
+    "iso3Code": "SYR",
+    "names": {
+      "default": "Syrie",
+      "en": "Syria",
+      "es": "Siria"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "sirio"
+      }
+    ],
+    "active": true
+  },
+  "SZ": {
+    "iso2Code": "SZ",
+    "iso3Code": "SWZ",
+    "names": {
+      "default": "Swaziland",
+      "en": "Swaziland",
+      "es": "Swazilandia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "suazi"
+      }
+    ],
+    "active": true
+  },
+  "CK": {
+    "iso2Code": "CK",
+    "iso3Code": "COK",
+    "names": {
+      "default": "Iles Cook",
+      "en": "Cook Islands",
+      "es": "Islas Cook"
+    },
+    "labels": [],
+    "active": true
+  },
+  "CL": {
+    "iso2Code": "CL",
+    "iso3Code": "CHL",
+    "names": {
+      "default": "Chili",
+      "en": "Chile",
+      "es": "Chile"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "chileno"
+      }
+    ],
+    "active": true
+  },
+  "CM": {
+    "iso2Code": "CM",
+    "iso3Code": "CMR",
+    "names": {
+      "default": "Cameroun",
+      "en": "Cameroon",
+      "es": "Camerún"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "camerunés"
+      }
+    ],
+    "active": true
+  },
+  "CN": {
+    "iso2Code": "CN",
+    "iso3Code": "CHN",
+    "names": {
+      "default": "Chine",
+      "en": "China",
+      "es": "China"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "chino"
+      }
+    ],
+    "active": true
+  },
+  "CO": {
+    "iso2Code": "CO",
+    "iso3Code": "COL",
+    "names": {
+      "default": "Colombie",
+      "en": "Colombia",
+      "es": "Colombia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "colombiano"
+      }
+    ],
+    "active": true
+  },
+  "CR": {
+    "iso2Code": "CR",
+    "iso3Code": "CRI",
+    "names": {
+      "default": "Costa Rica",
+      "en": "Costa Rica",
+      "es": "Costa Rica"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "costarricense"
+      }
+    ],
+    "active": true
+  },
+  "TC": {
+    "iso2Code": "TC",
+    "iso3Code": "TCA",
+    "names": {
+      "default": "Iles Turques et Caïques",
+      "en": "Turks and Caicos Islands",
+      "es": "Islas Turcas y Caicos"
+    },
+    "labels": [],
+    "active": true
+  },
+  "TD": {
+    "iso2Code": "TD",
+    "iso3Code": "TCD",
+    "names": {
+      "default": "Tchad",
+      "en": "Chad",
+      "es": "Chad"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "chadiano"
+      }
+    ],
+    "active": true
+  },
+  "CU": {
+    "iso2Code": "CU",
+    "iso3Code": "CUB",
+    "names": {
+      "default": "Cuba",
+      "en": "Cuba",
+      "es": "Cuba"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "cubano"
+      }
+    ],
+    "active": true
+  },
+  "TF": {
+    "iso2Code": "TF",
+    "iso3Code": "ATF",
+    "names": {
+      "default": "Terres australes françaises",
+      "en": "French Southern Territories",
+      "es": "Territorios Australes y Antárticas Franceses"
+    },
+    "labels": [],
+    "active": true
+  },
+  "CV": {
+    "iso2Code": "CV",
+    "iso3Code": "CPV",
+    "names": {
+      "default": "Cap-Vert",
+      "en": "Cape Verde",
+      "es": "Cabo Verde"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value":"caboverdiano"
+      }
+    ],
+    "active": true
+  },
+  "TG": {
+    "iso2Code": "TG",
+    "iso3Code": "TGO",
+    "names": {
+      "default": "Togo",
+      "en": "Togo",
+      "es": "Togo"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "togolés"
+      }
+    ],
+    "active": true
+  },
+  "TH": {
+    "iso2Code": "TH",
+    "iso3Code": "THA",
+    "names": {
+      "default": "Thaïlande",
+      "en": "Thailand",
+      "es": "Tailandia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "tailandés"
+      }
+    ],
+    "active": true
+  },
+  "CX": {
+    "iso2Code": "CX",
+    "iso3Code": "CXR",
+    "names": {
+      "default": "Christmas Island",
+      "en": "Christmas Island",
+      "es": "Isla de Navidad"
+    },
+    "labels": [],
+    "active": true
+  },
+  "CY": {
+    "iso2Code": "CY",
+    "iso3Code": "CYP",
+    "names": {
+      "default": "Chypre",
+      "en": "Cyprus",
+      "es": "Chipre"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "chipriota"
+      }
+    ],
+    "active": true
+  },
+  "TJ": {
+    "iso2Code": "TJ",
+    "iso3Code": "TJK",
+    "names": {
+      "default": "Le Tadjikistan",
+      "en": "Tajikistan",
+      "es": "Tadjikistán"
+    },
+    "labels": [],
+    "active": true
+  },
+  "CZ": {
+    "iso2Code": "CZ",
+    "iso3Code": "CZE",
+    "names": {
+      "default": "République Tchèque",
+      "en": "Czech Republic",
+      "es": "República Checa"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "checo"
+      }
+    ],
+    "active": true
+  },
+  "TK": {
+    "iso2Code": "TK",
+    "iso3Code": "TKL",
+    "names": {
+      "default": "Tokélaou",
+      "en": "Tokelau",
+      "es": "Tokelau"
+    },
+    "labels": [],
+    "active": true
+  },
+  "TL": {
+    "iso2Code": "TL",
+    "iso3Code": "TLS",
+    "names": {
+      "default": "Timor-Oriental",
+      "en": "East Timor",
+      "es": "Timor Oriental"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "timorense"
+      }
+    ],
+    "active": true
+  },
+  "TM": {
+    "iso2Code": "TM",
+    "iso3Code": "TKM",
+    "names": {
+      "default": "Le Turkménistan",
+      "en": "Turkmenistan",
+      "es": "Turkmenistán"
+    },
+    "labels": [],
+    "active": true
+  },
+  "TN": {
+    "iso2Code": "TN",
+    "iso3Code": "TUN",
+    "names": {
+      "default": "Tunisie",
+      "en": "Tunisia",
+      "es": "Tunez"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "tunecino"
+      }
+    ],
+    "active": true
+  },
+  "TO": {
+    "iso2Code": "TO",
+    "iso3Code": "TON",
+    "names": {
+      "default": "Tonga",
+      "en": "Tonga",
+      "es": "Tonga"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "tongano"
+      }
+    ],
+    "active": true
+  },
+  "TR": {
+    "iso2Code": "TR",
+    "iso3Code": "TUR",
+    "names": {
+      "default": "Turquie",
+      "en": "Turkey",
+      "es": "Turquía"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "turco"
+      }
+    ],
+    "active": true
+  },
+  "TT": {
+    "iso2Code": "TT",
+    "iso3Code": "TTO",
+    "names": {
+      "default": "Trinidad et Tobago",
+      "en": "Trinidad and Tobago",
+      "es": "Trinidad y Tobago"
+    },
+    "labels": [ {
+      "name": "nationality",
+      "lang": "es",
+      "value": "trinitario"
+    }],
+    "active": true
+  },
+  "DE": {
+    "iso2Code": "DE",
+    "iso3Code": "DEU",
+    "names": {
+      "default": "Allemagne",
+      "en": "Germany",
+      "es": "Alemania"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "alemán"
+      }
+    ],
+    "active": true
+  },
+  "TV": {
+    "iso2Code": "TV",
+    "iso3Code": "TUV",
+    "names": {
+      "default": "Tuvalu",
+      "en": "Tuvalu",
+      "es": "Tuvalu"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "tuvaluano"
+      }
+    ],
+    "active": true
+  },
+  "TW": {
+    "iso2Code": "TW",
+    "iso3Code": "TWN",
+    "names": {
+      "default": "Taiwan",
+      "en": "Taiwan",
+      "es": "Taiwán"
+    },
+    "labels": [ {
+      "name": "nationality",
+      "lang": "es",
+      "value": "taiwanes"
+    }],
+    "active": true
+  },
+  "TZ": {
+    "iso2Code": "TZ",
+    "iso3Code": "TZA",
+    "names": {
+      "default": "Tanzanie",
+      "en": "Tanzania",
+      "es": "Tanzania"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "tanzano"
+      }
+    ],
+    "active": true
+  },
+  "DJ": {
+    "iso2Code": "DJ",
+    "iso3Code": "DJI",
+    "names": {
+      "default": "Djibouti",
+      "en": "Djibouti",
+      "es": "Yibuti"
+    },
+    "labels": [{
+      "value":"de djibouti",
+      "lang": "es",
+      "value": "danés"
+    }],
+    "active": true
+  },
+  "DK": {
+    "iso2Code": "DK",
+    "iso3Code": "DNK",
+    "names": {
+      "default": "Danemark",
+      "en": "Denmark",
+      "es": "Dinamarca"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "danés"
+      }
+    ],
+    "active": true
+  },
+  "DM": {
+    "iso2Code": "DM",
+    "iso3Code": "DMA",
+    "names": {
+      "default": "Dominique",
+      "en": "Dominica",
+      "es": "Dominica"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "dominiqués"
+      }
+    ],
+    "active": true
+  },
+  "DO": {
+    "iso2Code": "DO",
+    "iso3Code": "DOM",
+    "names": {
+      "default": "République Dominicaine",
+      "en": "Dominican Republic",
+      "es": "República Dominicana"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "dominicano"
+      }
+    ],
+    "active": true
+  },
+  "UA": {
+    "iso2Code": "UA",
+    "iso3Code": "UKR",
+    "names": {
+      "default": "L'Ukraine",
+      "en": "Ukraine",
+      "es": "Ucrania"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "ucraniano"
+      }
+    ],
+    "active": true
+  },
+  "UG": {
+    "iso2Code": "UG",
+    "iso3Code": "UGA",
+    "names": {
+      "default": "Ouganda",
+      "en": "Uganda",
+      "es": "Uganda"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "ugandés"
+      }
+    ],
+    "active": true
+  },
+  "DZ": {
+    "iso2Code": "DZ",
+    "iso3Code": "DZA",
+    "names": {
+      "default": "Algérie",
+      "en": "Algeria",
+      "es": "Algeria"
+    },
+    "labels": [{
+      "name": "nationality",
+      "lang": "es",
+      "value": "argelino"
+    }],
+    "active": true
+  },
+  "UM": {
+    "iso2Code": "UM",
+    "iso3Code": "UMI",
+    "names": {
+      "default": "États-Unis Îles mineures éloignées",
+      "en": "United States Minor Outlying Islands",
+      "es": "Islas Ultramarinas Menores de Estados Unidos"
+    },
+    "labels": [],
+    "active": true
+  },
+  "EC": {
+    "iso2Code": "EC",
+    "iso3Code": "ECU",
+    "names": {
+      "default": "Equateur",
+      "en": "Ecuador",
+      "es": "Ecuador"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "ecuatoriano"
+      }
+    ],
+    "active": true
+  },
+  "US": {
+    "iso2Code": "US",
+    "iso3Code": "USA",
+    "names": {
+      "default": "États-Unis d'Amérique",
+      "en": "United States of America",
+      "es": "Estados Unidos de América"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "americano"
+      }
+    ],
+    "active": true
+  },
+  "EE": {
+    "iso2Code": "EE",
+    "iso3Code": "EST",
+    "names": {
+      "default": "L'Estonie",
+      "en": "Estonia",
+      "es": "Estonia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "estonio"
+      }
+    ],
+    "active": true
+  },
+  "EG": {
+    "iso2Code": "EG",
+    "iso3Code": "EGY",
+    "names": {
+      "default": "Egypte",
+      "en": "Egypt",
+      "es": "Egipto"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "egipcio"
+      }
+    ],
+    "active": true
+  },
+  "EH": {
+    "iso2Code": "EH",
+    "iso3Code": "ESH",
+    "names": {
+      "default": "Sahara Occidental",
+      "en": "Western Sahara",
+      "es": "Sahara Occidental"
+    },
+    "labels": [ {
+      "name": "nationality",
+      "lang": "es",
+      "value": "del Sahara"
+    }],
+    "active": true
+  },
+  "UY": {
+    "iso2Code": "UY",
+    "iso3Code": "URY",
+    "names": {
+      "default": "Uruguay",
+      "en": "Uruguay",
+      "es": "Uruguay"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "uruguayo"
+      }
+    ],
+    "active": true
+  },
+  "UZ": {
+    "iso2Code": "UZ",
+    "iso3Code": "UZB",
+    "names": {
+      "default": "L'Ouzbékistan",
+      "en": "Uzbekistan",
+      "es": "Uzbekistán"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "uzbeco"
+      }
+    ],
+    "active": true
+  },
+  "VA": {
+    "iso2Code": "VA",
+    "iso3Code": "VAT",
+    "names": {
+      "default": "Cité du Vatican",
+      "en": "Vatican City State",
+      "es": "Ciudad del Vaticano"
+    },
+    "labels": [{
+      "name": "nationality",
+      "lang": "es",
+      "value": "vaticano"
+    }],
+    "active": true
+  },
+  "ER": {
+    "iso2Code": "ER",
+    "iso3Code": "ERI",
+    "names": {
+      "default": "Erythrée",
+      "en": "Eritrea",
+      "es": "Eritrea"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "eritreo"
+      }
+    ],
+    "active": true
+  },
+  "VC": {
+    "iso2Code": "VC",
+    "iso3Code": "VCT",
+    "names": {
+      "default": "Saint-Vincent et Grenadines",
+      "en": "Saint Vincent and the Grenadines",
+      "es": "San Vicente y las Granadinas"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "sanvicentino"
+      }
+    ],
+    "active": true
+  },
+  "ES": {
+    "iso2Code": "ES",
+    "iso3Code": "ESP",
+    "names": {
+      "default": "Espagne",
+      "en": "Spain",
+      "es": "España"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "español"
+      }
+    ],
+    "active": true
+  },
+  "ET": {
+    "iso2Code": "ET",
+    "iso3Code": "ETH",
+    "names": {
+      "default": "Ethiopie",
+      "en": "Ethiopia",
+      "es": "Etiopía"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "etíope"
+      }
+    ],
+    "active": true
+  },
+  "VE": {
+    "iso2Code": "VE",
+    "iso3Code": "VEN",
+    "names": {
+      "default": "Venezuela",
+      "en": "Venezuela",
+      "es": "Venezuela"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "venezolano"
+      }
+    ],
+    "active": true
+  },
+  "VG": {
+    "iso2Code": "VG",
+    "iso3Code": "VG",
+    "names": {
+      "default": "Iles Vierges",
+      "en": "Virgin Islands",
+      "es": "Islas Vírgenes Británicas"
+    },
+    "labels": [],
+    "active": true
+  },
+  "VI": {
+    "iso2Code": "VI",
+    "iso3Code": "VIR",
+    "names": {
+      "default": "Îles Vierges américaines",
+      "en": "United States Virgin Islands",
+      "es": "Islas Vírgenes de los Estados Unidos"
+    },
+    "labels": [],
+    "active": true
+  },
+  "VN": {
+    "iso2Code": "VN",
+    "iso3Code": "VNM",
+    "names": {
+      "default": "Vietnam",
+      "en": "Vietnam",
+      "es": "Vietnam"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "vietnamita"
+      }
+    ],
+    "active": true
+  },
+  "VU": {
+    "iso2Code": "VU",
+    "iso3Code": "VUT",
+    "names": {
+      "default": "Vanuatu",
+      "en": "Vanuatu",
+      "es": "Vanuatu"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "vanuatuense"
+      }
+    ],
+    "active": true
+  },
+  "FI": {
+    "iso2Code": "FI",
+    "iso3Code": "FIN",
+    "names": {
+      "default": "Finlande",
+      "en": "Finland",
+      "es": "Finlandia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "finés"
+      }
+    ],
+    "active": true
+  },
+  "FJ": {
+    "iso2Code": "FJ",
+    "iso3Code": "FJI",
+    "names": {
+      "default": "Fidji",
+      "en": "Fiji",
+      "es": "Fiyi"
+    },
+    "labels": [ {
+      "name": "nationality",
+      "lang": "es",
+      "value": "fijano"
+    }],
+    "active": true
+  },
+  "FK": {
+    "iso2Code": "FK",
+    "iso3Code": "FLK",
+    "names": {
+      "default": "Iles Falkland",
+      "en": "Falkland Islands (Malvinas)",
+      "es": "Islas Malvinas"
+    },
+    "labels": [],
+    "active": true
+  },
+  "FM": {
+    "iso2Code": "FM",
+    "iso3Code": "FSM",
+    "names": {
+      "default": "Federados Estados de",
+      "en": "Estados Federados de",
+      "es": "Micronesia"
+    },
+    "labels": [],
+    "active": true
+  },
+  "FO": {
+    "iso2Code": "FO",
+    "iso3Code": "FRO",
+    "names": {
+      "default": "Iles Féro",
+      "en": "Faroe Islands",
+      "es": "Islas Feroe"
+    },
+    "labels": [],
+    "active": true
+  },
+  "FR": {
+    "iso2Code": "FR",
+    "iso3Code": "FRA",
+    "names": {
+      "default": "France",
+      "en": "France",
+      "es": "Francia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "francés"
+      }
+    ],
+    "active": true
+  },
+  "WF": {
+    "iso2Code": "WF",
+    "iso3Code": "WLF",
+    "names": {
+      "default": "Wallis et Futuna",
+      "en": "Wallis and Futuna",
+      "es": "Wallis y Futuna"
+    },
+    "labels": [],
+    "active": true
+  },
+  "GA": {
+    "iso2Code": "GA",
+    "iso3Code": "GAB",
+    "names": {
+      "default": "Gabon",
+      "en": "Gabon",
+      "es": "Gabón"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "gabonés"
+      }
+    ],
+    "active": true
+  },
+  "GB": {
+    "iso2Code": "GB",
+    "iso3Code": "GBR",
+    "names": {
+      "default": "Royaume-Uni",
+      "en": "United Kingdom",
+      "es": "Reino Unido"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "británico"
+      }
+    ],
+    "active": true
+  },
+  "WS": {
+    "iso2Code": "WS",
+    "iso3Code": "WSM",
+    "names": {
+      "default": "Samoa",
+      "en": "Samoa",
+      "es": "Samoa"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "samoano"
+      }
+    ],
+    "active": true
+  },
+  "GD": {
+    "iso2Code": "GD",
+    "iso3Code": "GRD",
+    "names": {
+      "default": "Grenade",
+      "en": "Grenada",
+      "es": "Granada"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "granadino"
+      }
+    ],
+    "active": true
+  },
+  "GE": {
+    "iso2Code": "GE",
+    "iso3Code": "GEO",
+    "names": {
+      "default": "Géorgie",
+      "en": "Georgia",
+      "es": "Georgia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "georgiano"
+      }
+    ],
+    "active": true
+  },
+  "GF": {
+    "iso2Code": "GF",
+    "iso3Code": "GUF",
+    "names": {
+      "default": "Guyane française",
+      "en": "French Guiana",
+      "es": "Guayana Francesa"
+    },
+    "labels": [{
+      "name": "nationality",
+      "lang": "es",
+      "value": "guañano"
+    }],
+    "active": true
+  },
+  "GG": {
+    "iso2Code": "GG",
+    "iso3Code": "GGY",
+    "names": {
+      "default": "Guernesey",
+      "en": "Guernsey",
+      "es": "Guernsey"
+    },
+    "labels": [],
+    "active": true
+  },
+  "GH": {
+    "iso2Code": "GH",
+    "iso3Code": "GHA",
+    "names": {
+      "default": "Ghana",
+      "en": "Ghana",
+      "es": "Ghana"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "ghanés"
+      }
+    ],
+    "active": true
+  },
+  "GI": {
+    "iso2Code": "GI",
+    "iso3Code": "GIB",
+    "names": {
+      "default": "Gibraltar",
+      "en": "Gibraltar",
+      "es": "Gibraltar"
+    },
+    "labels": [],
+    "active": true
+  },
+  "GL": {
+    "iso2Code": "GL",
+    "iso3Code": "GRL",
+    "names": {
+      "default": "Groenland",
+      "en": "Greenland",
+      "es": "Groenlandia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "groenlandés"
+      }
+    ],
+    "active": true
+  },
+  "GM": {
+    "iso2Code": "GM",
+    "iso3Code": "GMB",
+    "names": {
+      "default": "Gambie",
+      "en": "Gambia",
+      "es": "Gambia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "gambiano"
+      }
+    ],
+    "active": true
+  },
+  "GN": {
+    "iso2Code": "GN",
+    "iso3Code": "GIN",
+    "names": {
+      "default": "Guinée",
+      "en": "Guinea",
+      "es": "Guinea"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "Guineano"
+      }
+    ],
+    "active": true
+  },
+  "GP": {
+    "iso2Code": "GP",
+    "iso3Code": "GLP",
+    "names": {
+      "default": "Guadeloupe",
+      "en": "Guadeloupe",
+      "es": "Guadalupe"
+    },
+    "labels": [],
+    "active": true
+  },
+  "GQ": {
+    "iso2Code": "GQ",
+    "iso3Code": "GNQ",
+    "names": {
+      "default": "Guinée Equatoriale",
+      "en": "Equatorial Guinea",
+      "es": "Guinea Ecuatorial"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "ecuatoguineano"
+      }
+    ],
+    "active": true
+  },
+  "GR": {
+    "iso2Code": "GR",
+    "iso3Code": "GRC",
+    "names": {
+      "default": "Grèce",
+      "en": "Greece",
+      "es": "Grecia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "griego"
+      }
+    ],
+    "active": true
+  },
+  "GS": {
+    "iso2Code": "GS",
+    "iso3Code": "SGS",
+    "names": {
+      "default": "Géorgie du Sud et les Îles Sandwich du Sud",
+      "en": "South Georgia and the South Sandwich Islands",
+      "es": "Islas Georgias del Sur y Sandwich del Sur"
+    },
+    "labels": [],
+    "active": true
+  },
+  "GT": {
+    "iso2Code": "GT",
+    "iso3Code": "GTM",
+    "names": {
+      "default": "Guatemala",
+      "en": "Guatemala",
+      "es": "Guatemala"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "guatemalteco"
+      }
+    ],
+    "active": true
+  },
+  "GU": {
+    "iso2Code": "GU",
+    "iso3Code": "GUM",
+    "names": {
+      "default": "Guam",
+      "en": "Guam",
+      "es": "Guam"
+    },
+    "labels": [],
+    "active": true
+  },
+  "GW": {
+    "iso2Code": "GW",
+    "iso3Code": "GNB",
+    "names": {
+      "default": "Guinée-Bissau",
+      "en": "Guinea-Bissau",
+      "es": "Guinea-Bissau"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "Guineano"
+      }
+    ],
+    "active": true
+  },
+  "GY": {
+    "iso2Code": "GY",
+    "iso3Code": "GUY",
+    "names": {
+      "default": "Guyane",
+      "en": "Guyana",
+      "es": "Guyana"
+    },
+    "labels": [ {
+      "name": "nationality",
+      "lang": "es",
+      "value": "guyanes"
+    }],
+    "active": true
+  },
+  "HK": {
+    "iso2Code": "HK",
+    "iso3Code": "HKG",
+    "names": {
+      "default": "Hong Kong",
+      "en": "Hong Kong",
+      "es": "Hong kong"
+    },
+    "labels": [],
+    "active": true
+  },
+  "HM": {
+    "iso2Code": "HM",
+    "iso3Code": "HMD",
+    "names": {
+      "default": "Les îles Heard et McDonald",
+      "en": "Heard Island and McDonald Islands",
+      "es": "Islas Heard y McDonald"
+    },
+    "labels": [],
+    "active": true
+  },
+  "HN": {
+    "iso2Code": "HN",
+    "iso3Code": "HND",
+    "names": {
+      "default": "Honduras",
+      "en": "Honduras",
+      "es": "Honduras"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "hondureño"
+      }
+    ],
+    "active": true
+  },
+  "HR": {
+    "iso2Code": "HR",
+    "iso3Code": "HRV",
+    "names": {
+      "default": "Croatie",
+      "en": "Croatia",
+      "es": "Croacia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "croata"
+      }
+    ],
+    "active": true
+  },
+  "HT": {
+    "iso2Code": "HT",
+    "iso3Code": "HTI",
+    "names": {
+      "default": "Haïti",
+      "en": "Haiti",
+      "es": "Haití"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "haitiano"
+      }
+    ],
+    "active": true
+  },
+  "YE": {
+    "iso2Code": "YE",
+    "iso3Code": "YEM",
+    "names": {
+      "default": "Yémen",
+      "en": "Yemen",
+      "es": "Yemen"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "jemení"
+      }
+    ],
+    "active": true
+  },
+  "HU": {
+    "iso2Code": "HU",
+    "iso3Code": "HUN",
+    "names": {
+      "default": "Hongrie",
+      "en": "Hungary",
+      "es": "Hungría"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "húngaro"
+      }
+    ],
+    "active": true
+  },
+  "ID": {
+    "iso2Code": "ID",
+    "iso3Code": "IDN",
+    "names": {
+      "default": "Indonésie",
+      "en": "Indonesia",
+      "es": "Indonesia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "indionisio"
+      }
+    ],
+    "active": true
+  },
+  "YT": {
+    "iso2Code": "YT",
+    "iso3Code": "MYT",
+    "names": {
+      "default": "Mayotte",
+      "en": "Mayotte",
+      "es": "Mayotte"
+    },
+    "labels": [],
+    "active": true
+  },
+  "IE": {
+    "iso2Code": "IE",
+    "iso3Code": "IRL",
+    "names": {
+      "default": "Irlande",
+      "en": "Ireland",
+      "es": "Irlanda"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "irlandés"
+      }
+    ],
+    "active": true
+  },
+  "IL": {
+    "iso2Code": "IL",
+    "iso3Code": "ISR",
+    "names": {
+      "default": "Israël",
+      "en": "Israel",
+      "es": "Israel"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "israelí"
+      }
+    ],
+    "active": true
+  },
+  "IM": {
+    "iso2Code": "IM",
+    "iso3Code": "IMN",
+    "names": {
+      "default": "Ile de Man",
+      "en": "Isle of Man",
+      "es": "Isla de Man"
+    },
+    "labels": [],
+    "active": true
+  },
+  "IN": {
+    "iso2Code": "IN",
+    "iso3Code": "IND",
+    "names": {
+      "default": "Inde",
+      "en": "India",
+      "es": "India"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "indio"
+      }
+    ],
+    "active": true
+  },
+  "IO": {
+    "iso2Code": "IO",
+    "iso3Code": "IOT",
+    "names": {
+      "default": "Territoire britannique de l'océan Indien",
+      "en": "British Indian Ocean Territory",
+      "es": "Territorio Británico del Océano Índico"
+    },
+    "labels": [],
+    "active": true
+  },
+  "ZA": {
+    "iso2Code": "ZA",
+    "iso3Code": "ZAF",
+    "names": {
+      "default": "Afrique du Sud",
+      "en": "South Africa",
+      "es": "Sudáfrica"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "sudafricano"
+      }
+    ],
+    "active": true
+  },
+  "IQ": {
+    "iso2Code": "IQ",
+    "iso3Code": "IRQ",
+    "names": {
+      "default": "Irak",
+      "en": "Iraq",
+      "es": "Irak"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "iraquí"
+      }
+    ],
+    "active": true
+  },
+  "IR": {
+    "iso2Code": "IR",
+    "iso3Code": "IRN",
+    "names": {
+      "default": "Iran",
+      "en": "Iran",
+      "es": "Irán"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "iraní"
+      }
+    ],
+    "active": true
+  },
+  "IS": {
+    "iso2Code": "IS",
+    "iso3Code": "ISL",
+    "names": {
+      "default": "Islande",
+      "en": "Iceland",
+      "es": "Islandia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "islandés"
+      }
+    ],
+    "active": true
+  },
+  "IT": {
+    "iso2Code": "IT",
+    "iso3Code": "ITA",
+    "names": {
+      "default": "Italie",
+      "en": "Italy",
+      "es": "Italia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "italiano"
+      }
+    ],
+    "active": true
+  },
+  "ZM": {
+    "iso2Code": "ZM",
+    "iso3Code": "ZMB",
+    "names": {
+      "default": "Zambie",
+      "en": "Zambia",
+      "es": "Zambia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "zambiano"
+      }
+    ],
+    "active": true
+  },
+  "JE": {
+    "iso2Code": "JE",
+    "iso3Code": "JEY",
+    "names": {
+      "default": "Maillot",
+      "en": "Jersey",
+      "es": "Jersey"
+    },
+    "labels": [],
+    "active": true
+  },
+  "ZW": {
+    "iso2Code": "ZW",
+    "iso3Code": "ZWE",
+    "names": {
+      "default": "Zimbabwe",
+      "en": "Zimbabwe",
+      "es": "Zimbabue"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "zimbabuense"
+      }
+    ],
+    "active": true
+  },
+  "JM": {
+    "iso2Code": "JM",
+    "iso3Code": "JAM",
+    "names": {
+      "default": "Jamaïque",
+      "en": "Jamaica",
+      "es": "Jamaica"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "jamaicano"
+      }
+    ],
+    "active": true
+  },
+  "JO": {
+    "iso2Code": "JO",
+    "iso3Code": "JOR",
+    "names": {
+      "default": "Jordan",
+      "en": "Jordan",
+      "es": "Jordania"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "jordano"
+      }
+    ],
+    "active": true
+  },
+  "JP": {
+    "iso2Code": "JP",
+    "iso3Code": "JPN",
+    "names": {
+      "default": "Japon",
+      "en": "Japan",
+      "es": "Japón"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "japonés"
+      }
+    ],
+    "active": true
+  },
+  "KE": {
+    "iso2Code": "KE",
+    "iso3Code": "KEN",
+    "names": {
+      "default": "Kenya",
+      "en": "Kenya",
+      "es": "Kenia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "keniata"
+      }
+    ],
+    "active": true
+  },
+  "KG": {
+    "iso2Code": "KG",
+    "iso3Code": "KGZ",
+    "names": {
+      "default": "Kirghizstan",
+      "en": "Kyrgyzstan",
+      "es": "Kirgizstán"
+    },
+    "labels": [{
+      "name": "nationality",
+      "lang": "es",
+      "value": "kirguís"
+    }],
+    "active": true
+  },
+  "KH": {
+    "iso2Code": "KH",
+    "iso3Code": "KHM",
+    "names": {
+      "default": "Cambodge",
+      "en": "Cambodia",
+      "es": "Camboya"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "camboyano"
+      }
+    ],
+    "active": true
+  },
+  "KI": {
+    "iso2Code": "KI",
+    "iso3Code": "KIR",
+    "names": {
+      "default": "Kiribati",
+      "en": "Kiribati",
+      "es": "Kiribati"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "kiribatiano"
+      }
+    ],
+    "active": true
+  },
+  "KM": {
+    "iso2Code": "KM",
+    "iso3Code": "COM",
+    "names": {
+      "default": "Comores",
+      "en": "Comoros",
+      "es": "Comoras"
+    },
+    "labels": [ {
+      "name": "nationality",
+      "lang": "es",
+      "value": "comorense"
+    }
+    ],
+    "active": true
+  },
+  "KN": {
+    "iso2Code": "KN",
+    "iso3Code": "KNA",
+    "names": {
+      "default": "Saint Kitts et Nevis",
+      "en": "Saint Kitts and Nevis",
+      "es": "San Cristóbal y Nieves"
+    },
+    "labels": [],
+    "active": true
+  },
+  "KP": {
+    "iso2Code": "KP",
+    "iso3Code": "PRK",
+    "names": {
+      "default": "Corée du Nord",
+      "en": "North Korea",
+      "es": "Corea del Norte"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "norcoreano"
+      }
+    ],
+    "active": true
+  },
+  "KR": {
+    "iso2Code": "KR",
+    "iso3Code": "KOR",
+    "names": {
+      "default": "Corée du Sud",
+      "en": "South Korea",
+      "es": "Corea del Sur"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "surcoreano"
+      }
+    ],
+    "active": true
+  },
+  "KW": {
+    "iso2Code": "KW",
+    "iso3Code": "KWT",
+    "names": {
+      "default": "Koweït",
+      "en": "Kuwait",
+      "es": "Kuwait"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "kuwaití"
+      }
+    ],
+    "active": true
+  },
+  "KY": {
+    "iso2Code": "KY",
+    "iso3Code": "CYM",
+    "names": {
+      "default": "Iles Caïmans",
+      "en": "Cayman Islands",
+      "es": "Islas Caimán"
+    },
+    "labels": [],
+    "active": true
+  },
+  "KZ": {
+    "iso2Code": "KZ",
+    "iso3Code": "KAZ",
+    "names": {
+      "default": "Le Kazakhstan",
+      "en": "Kazakhstan",
+      "es": "Kazajistán"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "kazajo"
+      }
+    ],
+    "active": true
+  },
+  "LA": {
+    "iso2Code": "LA",
+    "iso3Code": "LAO",
+    "names": {
+      "default": "Laos",
+      "en": "Laos",
+      "es": "Laos"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "laosiano"
+      }
+    ],
+    "active": true
+  },
+  "LB": {
+    "iso2Code": "LB",
+    "iso3Code": "LBN",
+    "names": {
+      "default": "Liban",
+      "en": "Lebanon",
+      "es": "Líbano"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "libanés"
+      }
+    ],
+    "active": true
+  },
+  "LC": {
+    "iso2Code": "LC",
+    "iso3Code": "LCA",
+    "names": {
+      "default": "Sainte-Lucie",
+      "en": "Saint Lucia",
+      "es": "Santa Lucía"
+    },
+    "labels": [ {
+      "name": "nationality",
+      "lang": "es",
+      "value": "santaluciense"
+    }],
+    "active": true
+  },
+  "LI": {
+    "iso2Code": "LI",
+    "iso3Code": "LIE",
+    "names": {
+      "default": "Liechtenstein",
+      "en": "Liechtenstein",
+      "es": "Liechtenstein"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "liechtensteiniano"
+      }
+    ],
+    "active": true
+  },
+  "LK": {
+    "iso2Code": "LK",
+    "iso3Code": "LKA",
+    "names": {
+      "default": "Sri Lanka",
+      "en": "Sri Lanka",
+      "es": "Sri lanka"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "ceilandés"
+      }
+    ],
+    "active": true
+  },
+  "LR": {
+    "iso2Code": "LR",
+    "iso3Code": "LBR",
+    "names": {
+      "default": "Liberia",
+      "en": "Liberia",
+      "es": "Liberia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "liberiano"
+      }
+    ],
+    "active": true
+  },
+  "LS": {
+    "iso2Code": "LS",
+    "iso3Code": "LSO",
+    "names": {
+      "default": "Lesotho",
+      "en": "Lesotho",
+      "es": "Lesoto"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "lesotense"
+      }
+    ],
+    "active": true
+  },
+  "LT": {
+    "iso2Code": "LT",
+    "iso3Code": "LTU",
+    "names": {
+      "default": "La Lituanie",
+      "en": "Lithuania",
+      "es": "Lituania"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "lituano"
+      }
+    ],
+    "active": true
+  },
+  "LU": {
+    "iso2Code": "LU",
+    "iso3Code": "LUX",
+    "names": {
+      "default": "Luxembourg",
+      "en": "Luxembourg",
+      "es": "Luxemburgo"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "luxemburgés"
+      }
+    ],
+    "active": true
+  },
+  "LV": {
+    "iso2Code": "LV",
+    "iso3Code": "LVA",
+    "names": {
+      "default": "La Lettonie",
+      "en": "Latvia",
+      "es": "Letonia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "letonio"
+      }
+    ],
+    "active": true
+  },
+  "LY": {
+    "iso2Code": "LY",
+    "iso3Code": "LBY",
+    "names": {
+      "default": "Libye",
+      "en": "Libya",
+      "es": "Libia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "libio"
+      }
+    ],
+    "active": true
+  },
+  "MA": {
+    "iso2Code": "MA",
+    "iso3Code": "MAR",
+    "names": {
+      "default": "Maroc",
+      "en": "Morocco",
+      "es": "Marruecos"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "marroquí"
+      }
+    ],
+    "active": true
+  },
+  "MC": {
+    "iso2Code": "MC",
+    "iso3Code": "MCO",
+    "names": {
+      "default": "Monaco",
+      "en": "Monaco",
+      "es": "Mónaco"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "monaqués"
+      }
+    ],
+    "active": true
+  },
+  "MD": {
+    "iso2Code": "MD",
+    "iso3Code": "MDA",
+    "names": {
+      "default": "Moldavie",
+      "en": "Moldova",
+      "es": "Moldavia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "moldavo"
+      }
+    ],
+    "active": true
+  },
+  "ME": {
+    "iso2Code": "ME",
+    "iso3Code": "MNE",
+    "names": {
+      "default": "Monténégro",
+      "en": "Montenegro",
+      "es": "Montenegro"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "montenegrino"
+      }
+    ],
+    "active": true
+  },
+  "MF": {
+    "iso2Code": "MF",
+    "iso3Code": "MAF",
+    "names": {
+      "default": "Saint - Martin(partie française)",
+      "en": "Saint Martin(French part)",
+      "es": "San Martín (Francia)"
+    },
+    "labels": [],
+    "active": true
+  },
+  "MG": {
+    "iso2Code": "MG",
+    "iso3Code": "MDG",
+    "names": {
+      "default": "Madagascar",
+      "en": "Madagascar",
+      "es": "Madagascar"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "malgache"
+      }
+    ],
+    "active": true
+  },
+  "MH": {
+    "iso2Code": "MH",
+    "iso3Code": "MHL",
+    "names": {
+      "default": "Iles Marshall",
+      "en": "Marshall Islands",
+      "es": "Islas Marshall"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "marshalés"
+      }
+    ],
+    "active": true
+  },
+  "MK": {
+    "iso2Code": "MK",
+    "iso3Code": "MKD",
+    "names": {
+      "default": "Macédoine",
+      "en": "Macedonia",
+      "es": "Macedônia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "macedonio"
+      }
+    ],
+    "active": true
+  },
+  "ML": {
+    "iso2Code": "ML",
+    "iso3Code": "MLI",
+    "names": {
+      "default": "Mali",
+      "en": "Mali",
+      "es": "Mali"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "maliense"
+      }
+    ],
+    "active": true
+  },
+  "MM": {
+    "iso2Code": "MM",
+    "iso3Code": "MMR",
+    "names": {
+      "default": "Myanmar",
+      "en": "Myanmar",
+      "es": "Birmania"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "birmano"
+      }
+    ],
+    "active": true
+  },
+  "MN": {
+    "iso2Code": "MN",
+    "iso3Code": "MNG",
+    "names": {
+      "default": "Mongolie",
+      "en": "Mongolia",
+      "es": "Mongolia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "mongól"
+      }
+    ],
+    "active": true
+  },
+  "MO": {
+    "iso2Code": "MO",
+    "iso3Code": "MAC",
+    "names": {
+      "default": "Macao",
+      "en": "Macao",
+      "es": "Macao"
+    },
+    "labels": [],
+    "active": true
+  },
+  "MP": {
+    "iso2Code": "MP",
+    "iso3Code": "MNP",
+    "names": {
+      "default": "Iles Mariannes du Nord",
+      "en": "Northern Mariana Islands",
+      "es": "Islas Marianas del Norte"
+    },
+    "labels": [],
+    "active": true
+  },
+  "MQ": {
+    "iso2Code": "MQ",
+    "iso3Code": "MTQ",
+    "names": {
+      "default": "Martinique",
+      "en": "Martinique",
+      "es": "Martinica"
+    },
+    "labels": [],
+    "active": true
+  },
+  "MR": {
+    "iso2Code": "MR",
+    "iso3Code": "MRT",
+    "names": {
+      "default": "Mauritanie",
+      "en": "Mauritania",
+      "es": "Mauritania"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "mauritano"
+      }
+    ],
+    "active": true
+  },
+  "MS": {
+    "iso2Code": "MS",
+    "iso3Code": "MSR",
+    "names": {
+      "default": "Montserrat",
+      "en": "Montserrat",
+      "es": "Montserrat"
+    },
+    "labels": [],
+    "active": true
+  },
+  "MT": {
+    "iso2Code": "MT",
+    "iso3Code": "MLT",
+    "names": {
+      "default": "Malte",
+      "en": "Malta",
+      "es": "Malta"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "maltés"
+      }
+    ],
+    "active": true
+  },
+  "MU": {
+    "iso2Code": "MU",
+    "iso3Code": "MUS",
+    "names": {
+      "default": "Iles Maurice",
+      "en": "Mauritius",
+      "es": "Mauricio"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "mauriciano"
+      }
+    ],
+    "active": true
+  },
+  "MV": {
+    "iso2Code": "MV",
+    "iso3Code": "MDV",
+    "names": {
+      "default": "Maldives",
+      "en": "Maldives",
+      "es": "Islas Maldivas"
+    },
+    "labels": [{
+      "name": "nationality",
+      "lang": "es",
+      "value": "maldivo"
+    }],
+    "active": true
+  },
+  "MW": {
+    "iso2Code": "MW",
+    "iso3Code": "MWI",
+    "names": {
+      "default": "Malawi",
+      "en": "Malawi",
+      "es": "Malawi"
+    },
+    "labels": [{
+      "name": "nationality",
+      "lang": "es",
+      "value": "malauí"
+    }],
+    "active": true
+  },
+  "MX": {
+    "iso2Code": "MX",
+    "iso3Code": "MEX",
+    "names": {
+      "default": "Mexique",
+      "en": "Mexico",
+      "es": "México"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "mexicano"
+      }
+    ],
+    "active": true
+  },
+  "MY": {
+    "iso2Code": "MY",
+    "iso3Code": "MYS",
+    "names": {
+      "default": "Malaisie",
+      "en": "Malaysia",
+      "es": "Malasia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "malayo"
+      }
+    ],
+    "active": true
+  },
+  "MZ": {
+    "iso2Code": "MZ",
+    "iso3Code": "MOZ",
+    "names": {
+      "default": "Mozambique",
+      "en": "Mozambique",
+      "es": "Mozambique"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "mozambiqueño"
+      }
+    ],
+    "active": true
+  },
+  "NA": {
+    "iso2Code": "NA",
+    "iso3Code": "NAM",
+    "names": {
+      "default": "Namibie",
+      "en": "Namibia",
+      "es": "Namibia"
+    },
+    "labels": [{
+      "name": "nationality",
+      "lang": "es",
+      "value": "namibio"
+    }],
+    "active": true
+  },
+  "NC": {
+    "iso2Code": "NC",
+    "iso3Code": "NCL",
+    "names": {
+      "default": "Nouvelle-Calédonie",
+      "en": "New Caledonia",
+      "es": "Nueva Caledonia"
+    },
+    "labels": [],
+    "active": true
+  },
+  "NE": {
+    "iso2Code": "NE",
+    "iso3Code": "NER",
+    "names": {
+      "default": "Niger",
+      "en": "Niger",
+      "es": "Niger"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "nigerino"
+      }
+    ],
+    "active": true
+  },
+  "NF": {
+    "iso2Code": "NF",
+    "iso3Code": "NFK",
+    "names": {
+      "default": "Île de Norfolk",
+      "en": "Norfolk Island",
+      "es": "Isla Norfolk"
+    },
+    "labels": [],
+    "active": true
+  },
+  "NG": {
+    "iso2Code": "NG",
+    "iso3Code": "NGA",
+    "names": {
+      "default": "Nigeria",
+      "en": "Nigeria",
+      "es": "Nigeria"
+    },
+    "labels": [{
+      "name": "nationality",
+      "lang": "es",
+      "value": "nigeriano"
+    }],
+    "active": true
+  },
+  "NI": {
+    "iso2Code": "NI",
+    "iso3Code": "NIC",
+    "names": {
+      "default": "Nicaragua",
+      "en": "Nicaragua",
+      "es": "Nicaragua"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "nicaraguense"
+      }
+    ],
+    "active": true
+  },
+  "NL": {
+    "iso2Code": "NL",
+    "iso3Code": "NLD",
+    "names": {
+      "default": "Pays-Bas",
+      "en": "Netherlands",
+      "es": "Países Bajos"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "holandés"
+      }
+    ],
+    "active": true
+  },
+  "NO": {
+    "iso2Code": "NO",
+    "iso3Code": "NOR",
+    "names": {
+      "default": "Norvège",
+      "en": "Norway",
+      "es": "Noruega"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "noruego"
+      }
+    ],
+    "active": true
+  },
+  "NP": {
+    "iso2Code": "NP",
+    "iso3Code": "NPL",
+    "names": {
+      "default": "Népal",
+      "en": "Nepal",
+      "es": "Nepal"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "nepales"
+      }
+    ],
+    "active": true
+  },
+  "NR": {
+    "iso2Code": "NR",
+    "iso3Code": "NRU",
+    "names": {
+      "default": "Nauru",
+      "en": "Nauru",
+      "es": "Nauru"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "nauruano"
+      }
+    ],
+    "active": true
+  },
+  "NU": {
+    "iso2Code": "NU",
+    "iso3Code": "NIU",
+    "names": {
+      "default": "Niou",
+      "en": "Niue",
+      "es": "Niue"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "niuano"
+      }
+    ],
+    "active": true
+  },
+  "NZ": {
+    "iso2Code": "NZ",
+    "iso3Code": "NZL",
+    "names": {
+      "default": "Nouvelle-Zélande",
+      "en": "New Zealand",
+      "es": "Nueva Zelanda"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "neozelandés"
+      }
+    ],
+    "active": true
+  },
+  "OM": {
+    "iso2Code": "OM",
+    "iso3Code": "OMN",
+    "names": {
+      "default": "Oman",
+      "en": "Oman",
+      "es": "Omán"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "omanés"
+      }
+    ],
+    "active": true
+  },
+  "PA": {
+    "iso2Code": "PA",
+    "iso3Code": "PAN",
+    "names": {
+      "default": "Panama",
+      "en": "Panama",
+      "es": "Panamá"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "panameño"
+      }
+    ],
+    "active": true
+  },
+  "PE": {
+    "iso2Code": "PE",
+    "iso3Code": "PER",
+    "names": {
+      "default": "Pérou",
+      "en": "Peru",
+      "es": "Perú"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "peruano"
+      }
+    ],
+    "active": true
+  },
+  "PF": {
+    "iso2Code": "PF",
+    "iso3Code": "PYF",
+    "names": {
+      "default": "Polynésie française",
+      "en": "French Polynesia",
+      "es": "Polinesia Francesa"
+    },
+    "labels": [],
+    "active": true
+  },
+  "PG": {
+    "iso2Code": "PG",
+    "iso3Code": "PNG",
+    "names": {
+      "default": "Papouasie-Nouvelle-Guinée",
+      "en": "Papua New Guinea",
+      "es": "Papúa Nueva Guinea"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "papú"
+      }
+    ],
+    "active": true
+  },
+  "PH": {
+    "iso2Code": "PH",
+    "iso3Code": "PHL",
+    "names": {
+      "default": "Philippines",
+      "en": "Philippines",
+      "es": "Filipinas"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "filipino"
+      }
+    ],
+    "active": true
+  },
+  "PK": {
+    "iso2Code": "PK",
+    "iso3Code": "PAK",
+    "names": {
+      "default": "Pakistan",
+      "en": "Pakistan",
+      "es": "Pakistán"
+    },
+    "labels": [{
+      "name": "nationality",
+      "lang": "es",
+      "value":"pakistaní"
+    }],
+    "active": true
+  },
+  "PL": {
+    "iso2Code": "PL",
+    "iso3Code": "POL",
+    "names": {
+      "default": "Pologne",
+      "en": "Poland",
+      "es": "Polonia"
+    },
+    "labels": [
+      {
+        "name": "nationality",
+        "lang": "es",
+        "value": "polaco"
+      }
+    ],
+    "active": true
+  },
+  "PM": {
+    "iso2Code": "PM",
+    "iso3Code": "SPM",
+    "names": {
+      "default": "Saint-Pierre-et-Miquelon",
+      "en": "Saint Pierre and Miquelon",
+      "es": "San Pedro y Miquelón"
+    },
+    "labels": [],
+    "active": true
+  },
+  "PN": {
+    "iso2Code": "PN",
+    "iso3Code": "PCN",
+    "names": {
+      "default": "Iles Pitcairn",
+      "en": "Pitcairn Islands",
+      "es": "Islas Pitcairn"
+    },
+    "labels": [],
+    "active": true
+  }
+}
